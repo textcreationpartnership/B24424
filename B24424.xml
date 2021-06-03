@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hue and cry after J- Duke of M-, Lord G--y, and Sir Tho. A-------g.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24424</idno><idno type="EEBO-CITATION">99882851</idno>
+  <idno type="VID">193701</idno>
+  <idno type="EEBO-PROQUEST">2240882274</idno>
+  
+            <idno type="OCLC"> 12206502</idno>
+            <idno type="STC">Wing H3279</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.2[50]</idno>
+            <idno type="STC">ESTC R14660</idno>
+            <idno type="PROQUEST">ocm99882851</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882851e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193701)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C27:4[68])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hue and cry after J- Duke of M-, Lord G--y, and Sir Tho. A-------g.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B.A.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Anno Domini, 1683..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition)</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Monmouth, James Scott, --  Duke of, 1649-1685 --  Early works to 1800.</term>
+               <term type="personal_name">Tankerville, Forde Grey, --  Earl of, 1655-1701 --  Early works to 1800.</term>
+               <term type="personal_name">Armstrong, Thomas, --  Sir, 1624?-1684 --  Early works to 1800.</term>
+               <term type="topical_term">Rye House Plot, 1683 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:193701:1"/>
+            <pb n="1" facs="tcp:193701:1"/>
+            <head>THE HUE and CRY AFTER J— Duke of M—, Lord G—y, and Sir Tho. A—g.</head>
+            <p>O Yes! Five hundred Pounds for a <hi>Whig Knight,</hi> and no more for a <hi>Protestant Prince,</hi> the Head of the Rabble, the Defender of the Factions, Assertor of our Liberties, and Supporter of our <hi>True-Blue-Protestant-Interest:</hi> 'Tis but a small sum for so Wise a Head-piece, but a great deal more then some of their Heads are worth. Five hundred Pounds, Hy! <hi>Jowler,</hi> there <hi>Rockwood,</hi> let loose the <hi>Monkey</hi> with his Chain of <hi>Packets,</hi> and the <hi>Elephant</hi> with his Castle of <hi>Pampblets.</hi> There my Dog <hi>Bowman,</hi> with all the Kennel of Roaring <hi>Toryes,</hi> or thou wilt not have a <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hig</hi> left to Burn in <hi>Shaftsbury</hi>'s room. Flee <hi>Towzer,</hi> and bring him back, or thou wilt not have a <hi>Trimmer</hi> left behind to vent thy Spleen upon; nay, in this Conspiracy, thou art in danger of loosing the <hi>Popish-Plot;</hi> and what wilt thou have then to say?</p>
+            <p>Roar out <hi>Bull,</hi> Bellow <hi>Baxter;</hi> lift up thy Voice like Trumpet: The <hi>Patriots</hi> and <hi>Horsemen</hi> of <hi>Israel,</hi> the men mighty in Battle are fallen, and who have we left behind to Fight the Battle of the Lord. The Heads of the Factions, the Heads of the People are dropping off, and I fear for all their deep Projects and Mysterious Caballs, they will prove themselves but <hi>Block heads</hi> at last.</p>
+            <p>Is <hi>M—h</hi> fled; and with him all the Protestant Hope and Inte<g ref="char:EOLhyphen"/>rest? Is the <hi>Pop<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh Plot</hi> turn'd to a <hi>Presbyterian Conspiracy?</hi> Is our
+<pb facs="tcp:193701:2"/>
+               <pb n="2" facs="tcp:193701:2"/>
+               <hi>running for the Plate</hi> come to <hi>running for our Lives?</hi> and instead of hunting for <hi>Rebellion,</hi> are we hunted for <hi>Rebels?</hi> What will become of our <hi>Lives</hi> and <hi>Liberties;</hi> our <hi>Routs</hi> and <hi>Ryots;</hi> our <hi>Clubs</hi> and <hi>Cabals;</hi> nay, what will become of our <hi>Wives</hi> and <hi>Daughters?</hi> Our Wives may mourn, and our Daughters may pine, but who will com<g ref="char:EOLhyphen"/>fort them in the day of their longing?</p>
+            <p>Is this the effects of all our holy Races, and Religious Horse-Matches, our beating the Countrey round for a Pack of old <hi>Beagles</hi> to pursue the old Game? Where are <hi>West's</hi> Fire-Locks, <hi>Wildman's</hi> Cannons, <hi>Rumsey's</hi> Blunderbusses, that out-did <hi>Pickering</hi> and all his <hi>Popish Plot,</hi> and was to have blown the <hi>King</hi> and <hi>Kingdom</hi> up at a blast?</p>
+            <p>Where is your <hi>True-Blue-Protestant-Cause?</hi> And where are the <hi>Protestant Arms?</hi> the <hi>Protestant-Flayls,</hi> and <hi>Protestant-Daggers?</hi> Are there no more <hi>Protestant-Flayls</hi> but what the Rank <hi>Tory Richard</hi> prophan'd in the Play, or are there no more <hi>Daggers</hi> than what Sir <hi>Robert C—n</hi> carries in his Pocket? Where are your <hi>City-Ryots,</hi> and your <hi>Countrey-Routs,</hi> that laid so fair for a Reformation? Where are <hi>A—s</hi> Hundreds and Legions? Where are <hi>G—ys</hi> Thou<g ref="char:EOLhyphen"/>sands, and <hi>M—ths</hi> Ten Thousands? Or where is that Loyal Duke, or where may we find him.</p>
+            <p>If you wou'd find Him, search not for him in the <hi>Cock-pit,</hi> nor in the <hi>Council,</hi> (for he hath despised the counsel of the ungodly) but make diligent enquiry for him at Sir <hi>W. P—y</hi>'s, and at the Coun<g ref="char:EOLhyphen"/>tess of <hi>S—ds;</hi> and if you miss of him there, be sure to search in the Lady <hi>G—ys</hi> Placket, and 'tis Ten thousand pound to a Nut-shell but you'll take him napping.</p>
+            <p>For the Lord <hi>G—y,</hi> tho' there's no great hopes of finding Him with his Lady, yet (if his <hi>Plotting</hi> has not spoil'd his <hi>Billing</hi>) you may catch him (and thereby, perhaps, two Rewards together) with a near Relation of her Ladyships.</p>
+            <p>
+               <hi>A—ng</hi> is not to be found either in <hi>Church</hi> or <hi>Conventicle;</hi> but (if you look close) you may find him with a common Whore at <hi>Stratfords,</hi> or a holy Sister at <hi>Wapping,</hi> preaching <hi>Liberty of conscience</hi> to the <hi>Saints,</hi> if his <hi>Politicks</hi> has not spoil'd hid <hi>Letchery.</hi>
+            </p>
+            <p>For <hi>Ferguson,</hi> you may find him in some <hi>Conventicle,</hi> holding forth to the <hi>Saints in Tribulation,</hi> That it wou'd please the Laird to prosper their <hi>King-killing Treasons,</hi> and <hi>Soul saving Conspiracies;</hi> or if they be found out in their Devices, and they may not fall into the hands of the Wicked; that in the day of their <hi>Tryal▪</hi> he may preserve their Throats from the Ax, and their Necks from the Halter.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> B. A. Anno Domini, <hi>1683.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
